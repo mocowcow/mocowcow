@@ -1,5 +1,4 @@
-[![MomoCow's LeetCode Progress](https://x.cow.moe/leetcode-progress?username=mocowcow)](https://github.com/mocowcow/my-leetcodes)
-<!--
+[![MomoCow's LeetCode Progress](https://x.cow.moe/leetcode-progress?username=mocowcow)]
 **mocowcow/mocowcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
